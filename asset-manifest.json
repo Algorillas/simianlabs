@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/thecryptomie.github.io/simianlabs/static/css/main.073c9b0a.css",
-    "main.js": "/thecryptomie.github.io/simianlabs/static/js/main.97bea19d.js",
-    "static/js/787.354e412b.chunk.js": "/thecryptomie.github.io/simianlabs/static/js/787.354e412b.chunk.js",
-    "static/media/logo.svg": "/thecryptomie.github.io/simianlabs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/thecryptomie.github.io/simianlabs/index.html",
-    "main.073c9b0a.css.map": "/thecryptomie.github.io/simianlabs/static/css/main.073c9b0a.css.map",
-    "main.97bea19d.js.map": "/thecryptomie.github.io/simianlabs/static/js/main.97bea19d.js.map",
-    "787.354e412b.chunk.js.map": "/thecryptomie.github.io/simianlabs/static/js/787.354e412b.chunk.js.map"
+    "main.css": "/algorillas.github.io/simianlabs/static/css/main.073c9b0a.css",
+    "main.js": "/algorillas.github.io/simianlabs/static/js/main.b1d57d70.js",
+    "static/js/787.354e412b.chunk.js": "/algorillas.github.io/simianlabs/static/js/787.354e412b.chunk.js",
+    "static/media/logo.svg": "/algorillas.github.io/simianlabs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/algorillas.github.io/simianlabs/index.html",
+    "main.073c9b0a.css.map": "/algorillas.github.io/simianlabs/static/css/main.073c9b0a.css.map",
+    "main.b1d57d70.js.map": "/algorillas.github.io/simianlabs/static/js/main.b1d57d70.js.map",
+    "787.354e412b.chunk.js.map": "/algorillas.github.io/simianlabs/static/js/787.354e412b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.97bea19d.js"
+    "static/js/main.b1d57d70.js"
   ]
 }
